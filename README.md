@@ -1,2 +1,2 @@
 # sikyungKim_2022231114
-python
+202310HY72030_Python_Programming
